@@ -1,8 +1,8 @@
 [
 {
-"message":"Hello",
-"filename":"FNovels v1.0.8",
-"version":"1.8",
-"link":""
+"message":"[FNovels v1.0.9]\n\nThis update fixed some bugs, added beta features and improvements.\n\n*Fixed Bugs\n✓Fixed New Updates section on Novel Information\n✓Fixed won't open on lower devices\n✓Fixed loading progress on Search Activity\n\n*Improvements\n✓Added Fan Translation Selection✓Now supported Android 11-13\n\n*Beta Features\n✓Added Notification Receiver on Startup\n✓Added Foreground Service Notification\n\nNoted: This version supported SDK Api Level 33 for Android 13. This might fixed to the issue that some devices cannot download some of the Novels. This also in Beta and I need your feedback about it.\n\nStarting today, I will stop improving the app and instead focus on posting lot of novels. If you have any problems or may encounter a bug, please report it to me on my facebook page so that I can list it on my Bug Fix List.\n\nThank you for using my application as always. If you want to remove Video Ad and get direct download without coin needed, you can buy premium version for at least 300php. To buy, message me on my FB Page.",
+"filename":"FNovels v1.0.9",
+"version":"1.9",
+"link":"https://drive.google.com/uc?export=download&id=16uos5tXzKosTbpDrYJ9VBDnpUQ3dP4CE"
 }
 ]
