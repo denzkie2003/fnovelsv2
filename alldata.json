@@ -1,20 +1,53 @@
 [
 {
-    "title":"Overlord",
-    "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh-jpUTd3Xl_s9-K79vEA0VBMJmeqpcNLMw&usqp=CAU",
+    "title":"Yomei Ichinen no Kimi ga Boku ni Nokoshite Kureta Mono",
+    "cover":"https://blogger.googleusercontent.com/img/a/AVvXsEjjrIDcBSqqQoFX1IpIxBSJEeTah9Q6w-BEwl7vqxql8Yt4nSZiHgjWUIQlNN-H4Zv-9Pk4OVn7bpL2txbHnhoXd_5hXXjvgH_haHkxdc_zz4of4Thyb_Qsc3lJ0Wmm6PMj13H2D3WGxQllqJ8du81P4jV20WgV1zbZgRAyjwi86ynqS9w3Yb_NXo03=w454-h640",
     "type":"Light Novel",
     "fileType":"Epub",
-    "tlType":"Official",
-    "popular":"Popular",
-    "volumes":"v14/?",
+    "tlType":"FanTL",
+    "popular":"No",
+    "volumes":"v1/?",
     "updated":"New",
-    "genre":"Action, Adventure, Drama, Fantasy, Harem, Mature, Psychological, Sci-fi, Seinen",
-    "translation":"Yen Press",
-    "alternative":"オーバーロード",
-    "synopsis":"In 21st century, world entered a new stage of VR games…and “YGGDRASIL” is considered top of all MMORPG…but, After announcing that all its servers will be off, the internet game ‘Yggdrasil’ shut down…or so was supposed to happen, but for some reason, the player character did not log out some time after the server was closed. NPCs start to become sentient. A normal youth who loves gaming in the real world seemed to have been transported into an alternate world along with his guild, becoming the strongest mage with the appearance of a skeleton, Momonga. He leads his guild “Ainz Ooal Gown” towards an unprecedented legendary fantasy adventure!",
+    "genre":"Drama, Romance",
+    "translation":"Turu Translations",
+    "alternative":"余命一年の君が僕に残してくれたもの",
+    "synopsis":"Mizuki loses hope due to her mother's death.\nOne day, Misaki, an off-season transfer student, arrives. After school, Misaki will help Mizuki work as a member of the library committee. As the distance between the two becomes shorter, Misaki suddenly admits that her life expectancy is short.\n\n“Unitl I die, I want you to go accompany me in the things I want to do.” \n\nMizuki fought for him. But he still has a hidden secret. The shy Mizuki and the innocent Misaki. A pure love story with a time limit of two opposite things.",
     "status":"Ongoing",
-    "author":"Maruyama Kugane",
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/overlord.json"
+    "author":"Hino Yuki",
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/Yomei_ichinen_no_kimi.json"
+  },
+{
+
+    "title":"Overlord",
+
+    "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh-jpUTd3Xl_s9-K79vEA0VBMJmeqpcNLMw&usqp=CAU",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "popular":"Popular",
+
+    "volumes":"v14/?",
+
+    "updated":"New",
+
+    "genre":"Action, Adventure, Drama, Fantasy, Harem, Mature, Psychological, Sci-fi, Seinen",
+
+    "translation":"Yen Press",
+
+    "alternative":"オーバーロード",
+
+    "synopsis":"In 21st century, world entered a new stage of VR games…and “YGGDRASIL” is considered top of all MMORPG…but, After announcing that all its servers will be off, the internet game ‘Yggdrasil’ shut down…or so was supposed to happen, but for some reason, the player character did not log out some time after the server was closed. NPCs start to become sentient. A normal youth who loves gaming in the real world seemed to have been transported into an alternate world along with his guild, becoming the strongest mage with the appearance of a skeleton, Momonga. He leads his guild “Ainz Ooal Gown” towards an unprecedented legendary fantasy adventure!",
+
+    "status":"Ongoing",
+
+    "author":"Maruyama Kugane",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/overlord.json"
+
   },
 {
 
