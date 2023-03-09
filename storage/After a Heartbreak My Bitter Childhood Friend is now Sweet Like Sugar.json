@@ -1,0 +1,11 @@
+[
+{
+   "volumeNumber":"Volume 1",
+   "volumeCover":"https://cdn.novelupdates.com/images/2020/10/SAB-cover.jpeg",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgVobse2RXK-JewdT/root/content"
+},{
+   "volumeNumber":"Volume 2",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPGcP9nbx4yJopRSWS7SsFjhCdAd3t0H-xVQ&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgVmVw5fdI28OcKSw/root/content"
+}
+]
