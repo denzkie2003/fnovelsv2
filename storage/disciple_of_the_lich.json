@@ -1,0 +1,19 @@
+[
+{
+   "volumeNumber":"Volume 1",
+   "volumeCover":"https://cdn.novelupdates.com/images/2020/05/9784865546644_LL.jpg",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgVAmVX2BgHRx-tG0/root/content"
+},{
+   "volumeNumber":"Volume 2",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3P0qmiUXPLtNYR4QQM0DgB6QorYaEZ2Psw&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgVVyQ14HMAltyaWo/root/content"
+},{
+   "volumeNumber":"Volume 3",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZOwcC-7xfBramvGzk9kDbeQImnYjt2GLtQ&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgVQRDtF2xt7oLLA0/root/content"
+},{
+   "volumeNumber":"Volume 4",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOiKTVOUv5XTMPQ4rknv0cTynMu74LSOLYSA&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgU9_gA0ivy4UMWym/root/content"
+}
+]
