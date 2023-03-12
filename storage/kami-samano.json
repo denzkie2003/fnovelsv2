@@ -1,0 +1,39 @@
+[
+{
+   "volumeNumber":"Volume 1",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaW1QaZ-ZdZW-8rHTR7IsiWzmzuwsKtv4UjQ&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgW-Jf_InAytV635B/root/content"
+},{
+   "volumeNumber":"Volume 2",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgAYs1RdAWwZG7XmDoHvNUNqa-KBY5f8sPUA&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgW2hLxrAXT2qRdzg/root/content"
+},{
+   "volumeNumber":"Volume 3",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTobJAIyIy6QL_2Sss28AGGp-ApFLakcb2Q&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgWwfQqlDA5S-JTJI/root/content"
+},{
+   "volumeNumber":"Volume 4",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydg4H7aWIv7dwLIiyzlEUM1Q6L15eXdFI6A&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgWtvFm8WK-2JlfiU/root/content"
+},{
+   "volumeNumber":"Volume 5",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiN5f-vaFv7llzl2tqxVay-hire5QRcwmfaA&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgXA1Yu8dN-CZfzwZ/root/content"
+},{
+   "volumeNumber":"Volume 6",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC1foTzZiFzWZauomZRl3DulVLR1ilW7RQjw&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgWovzB9vgiGuVoUj/root/content"
+},{
+   "volumeNumber":"Volume 7",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScFdfmT7R6xl1oWDMBrTf43014Lu0OcXJthw&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgXLjH6Mt135cffbd/root/content"
+},{
+   "volumeNumber":"Volume 8",
+   "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQua3lqHEpZ6dar4YYLB6RbjtrBkr5-Mp8u4w&usqp=CAU",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgXEY8D9WhfigZBak/root/content"
+},{
+   "volumeNumber":"Volume 9",
+   "volumeCover":"https://cdn.novelupdates.com/images/2015/08/kami-samano1.jpg",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgW5AbjOKSlwjH69J/root/content"
+}
+]
