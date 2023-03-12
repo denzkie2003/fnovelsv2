@@ -1,20 +1,119 @@
 [
 {
-    "title":"Magical★Explorer",
-    "cover":"https://yenpress-us.imgix.net/covers/9781975325657.jpg?auto=format&w=300&dpr=2&q=100",
+    "title":"86: EIGHTY SIX",
+    "cover":"https://yenpress-us.imgix.net/covers/9781975349967.jpg?auto=format&w=300&dpr=2&q=100",
     "type":"Light Novel",
     "fileType":"Epub",
     "tlType":"Official",
-    "popular":"No",
-    "volumes":"v3/?",
+    "popular":"Popular",
+    "volumes":"v11/?",
     "updated":"New",
-    "genre":"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Martial Arts, Romance, School Life, Shounen",
+    "genre":"Action, Drama, Mecha, Mystery, Sci-fi, Seinen, Supernatural, Tragedy",
     "translation":"Yen Press",
-    "alternative":"Magical Explorer Reborn as a Side Character in a Fantasy Dating Sim",
-    "synopsis":"OUT OF THE FRIEND ZONE AND INTO THE FIRE!\n\nFew titles are more revered among horndogs—(ahem) connoisseurs of Japanese erotic video games—than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!",
+    "alternative":"86―不存在的戰區―",
+    "synopsis":"A War Without Casualties\nThe Republic of San Magnolia has long been under attack from the neighboring Giadian Empire’s army of unmanned drones known as the Legion. After years of painstaking research, the Republic finally developed autonomous drones of their own, turning the one-sided struggle into a war without casualties-or at least, that’s what the government claims.\nIn truth, there is no such thing as a bloodless war. Beyond the fortified walls protecting the eighty-five Republic territories lies the “nonexistent” Eighty-Sixth Sector. The young men and women of this forsaken land are branded the Eighty-Six and, stripped of their humanity, pilot the “unmanned” weapons into battle...",
     "status":"Ongoing",
-    "author":"Iris",
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/magical_explorer.json"
+    "author":"Asato Asato",
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/86.json"
+  },
+{
+
+    "title":"Yahari Ore no Seishun Love Come wa Machigatte Iru",
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975347932.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "popular":"No",
+
+    "volumes":"Completed",
+
+    "updated":"New",
+
+    "genre":"Comedy, Drama, Psychological, Romance, School Life, Seinen, Slice of Life",
+
+    "translation":"Yen Press",
+
+    "alternative":"My youth romantic comedy is wrong as I expected | Oregairu",
+
+    "synopsis":"Hachiman Hikigaya is a cynic. “Youth” is a crock, he believes--a sucker’s game, an illusion woven from failure and hypocrisy. But when he turns in an essay for a school assignment espousing this view, he’s sentenced to work in the Service Club, an organization dedicated to helping students with problems in their lives! How will Hachiman the Cynic cope with a job that requires--gasp!--optimism?",
+
+    "status":"Completed",
+
+    "author":"Wataru Watari",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/oregiaru.json"
+
+  },
+{
+
+    "title":"Rascal Does Not Dream of Bunny Girl Senpai",
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975312688.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "popular":"Popular",
+
+    "volumes":"v9/?",
+
+    "updated":"New",
+
+    "genre":"Comedy, Drama, Mystery, Psychological, Romance, School Life, Sci-fi, Supernatural",
+
+    "translation":"Yen Press",
+
+    "alternative":"Seishun Buta Yarou Series",
+
+    "synopsis":"Out of sight, out of mind!\n\nBunny girls do not live in libraries. This is simply common sense. And yet, that's exactly where Sakuta finds one in the wild. More bewildering is who the bunny girl is: Mai Sakurajima, a girl one year older than Sakuta, famous at their school for her acting career even though she's currently on break. To top it all off, it seems like no one else in the library can see Mai at all, no matter what she does or...wears. Wanting to find out more about this mystery and maybe get a little closer to this beautiful upperclassman in the process, Sakuta launches an investigation to discover why an unforgettable bunny girl keeps becoming totally invisible.",
+
+    "status":"Ongoing",
+
+    "author":"Hajime Kamoshida",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/rascal_does_not_dream.json"
+
+  },
+{
+
+    "title":"Magical★Explorer",
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975325657.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "popular":"No",
+
+    "volumes":"v3/?",
+
+    "updated":"New",
+
+    "genre":"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Martial Arts, Romance, School Life, Shounen",
+
+    "translation":"Yen Press",
+
+    "alternative":"Magical Explorer Reborn as a Side Character in a Fantasy Dating Sim",
+
+    "synopsis":"OUT OF THE FRIEND ZONE AND INTO THE FIRE!\n\nFew titles are more revered among horndogs—(ahem) connoisseurs of Japanese erotic video games—than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!",
+
+    "status":"Ongoing",
+
+    "author":"Iris",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/magical_explorer.json"
+
   },
 {
 
