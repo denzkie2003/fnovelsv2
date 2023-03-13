@@ -1,0 +1,31 @@
+[
+{
+   "volumeNumber":"Volume 1",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975308667.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgg86EgiRwTL9kWZN/root/content"
+},{
+   "volumeNumber":"Volume 2",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975319151.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySggymfBniRg2zN8Yb/root/content"
+},{
+   "volumeNumber":"Volume 3",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975320706.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySggl7pUUgh_IOfR5u/root/content"
+},{
+   "volumeNumber":"Volume 4",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975320720.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySghB3FRWYIysKbbDW/root/content"
+},{
+   "volumeNumber":"Volume 5",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975335427.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySggq6YF8i0fDQ4LIC/root/content"
+},{
+   "volumeNumber":"Volume 6",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975343460.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySggtCWnEMsvTQh8Ia/root/content"
+},{
+   "volumeNumber":"Volume 7",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975343484.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgg0kdlvufL8Sigwn/root/content"
+}
+]
