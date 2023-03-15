@@ -1,20 +1,95 @@
 [
 {
-    "title":"The Demon Sword Master of Excalibur Academy",
-    "cover":"https://yenpress-us.imgix.net/covers/9781975308667.jpg?auto=format&w=300&dpr=2&q=100",
+    "title":"The Hero Laughs While Walking the Path of Vengeance a Second Time",
+    "cover":"https://yenpress-us.imgix.net/covers/9781975323769.jpg?auto=format&w=300&dpr=2&q=100",
     "type":"Light Novel",
     "fileType":"Epub",
     "tlType":"Official",
-    "popular":"No",
-    "volumes":"v7/?",
     "updated":"New",
-    "genre":"Action, Comedy, Ecchi, Fantasy, Harem, Martial Arts, Romance, School Life, Sci-fi, Shounen",
+    "genre":"Action, Adventure, Drama, Fantasy, Harem, Mature, Psychological, Romance, Seinen, Tragedy",
     "translation":"Yen Press",
-    "alternative":"Demon Sword Master of the Holy Sword Academy",
-    "synopsis":"Battles for ancient kingdoms are nothing compared to the battles of a classroom!\n\nAwakening from magical stasis after a thousand years, the Dark Lord Leonis suddenly finds himself in the body of a ten-year-old boy! He quickly meets Riselia, a girl confronting the Voids, creatures that have nearly exterminated humanity. Determined to uncover the mysteries of this strange new era, Leonis enrolls in Excalibur Academy, a school that trains students to fight back against these enigmatic monsters. Could the Voids hold some connection to Leonis's past?",
+    "alternative":"Nidome no Yuusha",
+    "synopsis":"LIFE AFTER DEATH\n\nKaito Ukei was destined for greatness in his new world, landing himself the role of a hero and defeating the evil sorceress alongside a band of noble adventurers. When he's double crossed, though, and brutally murdered by his former allies, something inside him snaps. Death brings Kaito neither peace nor salvation. Rather, it instills in him a singular desire—to squeeze the life out of his blasted betrayers in the cruellest manner possible...! The strange twist of fate that gives him a second chance in the world with all his memories intact provides opportunity to do just that, and so begins his quest to stalk and torture the members of his former party in the bloodiest, unholiest, most sadistic ways imaginable!",
     "status":"Ongoing",
-    "author":"Yu Shimizu",
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/the_demon_sword_excalibur.json"
+    "author":"Nero Kizuka",
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/Nidome no Yuusha.json"
+  },
+{
+    "title":"Apocalypse Witch: To the Strongests of an Age of Plenty",
+    "cover":"https://www.baka-tsuki.org/project/index.php?title=Apocalypse_Witch#/media/File:ApocalypseWitch_v05_cover.jpg",
+    "type":"Light Novel",
+    "fileType":"Epub",
+    "tlType":"FanTL",
+    "updated":"New",
+    "genre":"Action, Harem, School Life, Sci-fi, Tragedy",
+    "translation":"Baka-Tsuki",
+    "alternative":"Apocalypse Witch Houshoku Jidai no [Saikyou]-tachi e",
+    "synopsis":"New magic and old magic. A school battle fantasy over the title of strongest begins here! Crystal magic is the cutting edge of magical technology. Covering one’s entire body with crystal flower armor can produce a variety of supernatural phenomena. But due to a mistake, Utagai Karuta did not receive that special armor and instead receives power by summoning the obedient crystal girl Aine.\n\n“Sacrifice-sama, how long are you going to tease me? I’m going to enter a rebellious phase at this rate.”\n\n“That isn’t how rebellious phases are supposed to work.”\n\nBut at ocean-top Crystal Magic Academy Grimoire, where Karuta and everyone learn crystal magic, an upperclassman from the previous generation has been called in as a guest. That user of god-worshiping magic is known as the world’s strongest, and they step up onto the podium and speak to the entire student body. This begins a clash between the forces of new magic and old magic.\n\n“Every last one of you is incompetent. Thus, Grimoire will be shut down.”",
+    "status":"Ongoing",
+    "author":"Kamachi Kazuma",
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/Apocalypse_Witch.json"
+  },
+{
+
+    "title":"Overwrite",
+
+    "cover":"https://cclawtranslationshome.files.wordpress.com/2023/01/301-1.jpg",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"FanTL",
+
+    "updated":"New",
+
+    "genre":"Comedy, Drama, Romance",
+
+    "translation":"CClaw Translations",
+
+    "alternative":"オーバーライト",
+
+    "synopsis":"Graffiti. It’s the magic of ephemeral visuals that vividly overwrite even her and my thoughts―\n\nYoshi, a university student studying abroad in Bristol, Britain, uncovers graffiti at his workplace. Together with his colleague Boudicia, a languid but wild girl with golden hair, he uncovers a secret world of graffiti he never knew existed, as he is dragged into the conflict between graffiti writers and police, all the while struggling to rekindle his passion for music after a traumatic event.",
+
+    "status":"Completed",
+
+    "author":"Akiya Ikeda",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/overwrite.json"
+
+  },
+{
+
+    "title":"The Demon Sword Master of Excalibur Academy",
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975308667.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "popular":"No",
+
+    "volumes":"v7/?",
+
+    "updated":"New",
+
+    "genre":"Action, Comedy, Ecchi, Fantasy, Harem, Martial Arts, Romance, School Life, Sci-fi, Shounen",
+
+    "translation":"Yen Press",
+
+    "alternative":"Demon Sword Master of the Holy Sword Academy",
+
+    "synopsis":"Battles for ancient kingdoms are nothing compared to the battles of a classroom!\n\nAwakening from magical stasis after a thousand years, the Dark Lord Leonis suddenly finds himself in the body of a ten-year-old boy! He quickly meets Riselia, a girl confronting the Voids, creatures that have nearly exterminated humanity. Determined to uncover the mysteries of this strange new era, Leonis enrolls in Excalibur Academy, a school that trains students to fight back against these enigmatic monsters. Could the Voids hold some connection to Leonis's past?",
+
+    "status":"Ongoing",
+
+    "author":"Yu Shimizu",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/the_demon_sword_excalibur.json"
+
   },
 {
 
@@ -880,7 +955,7 @@ Karen Kohiruimaki is a college student who stands at an imposing six feet. While
     "cover":"https://cdn.novelupdates.com/images/2022/02/Blue-Outline.jpg",
     "type":"Light Novel",
     "fileType":"Epub",
-    "tlType":"Fan Translation",
+    "tlType":"FanTL",
     "popular":"No",
     "volumes":"v1/?",
     "updated":"New",
@@ -914,7 +989,7 @@ Karen Kohiruimaki is a college student who stands at an imposing six feet. While
 "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjbQhmErqZUgKRM-VlvlOV9EXjGm0wdOVAA&usqp=CAU",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v2/?",
 "updated":"New",
@@ -931,7 +1006,7 @@ Karen Kohiruimaki is a college student who stands at an imposing six feet. While
 "cover":"https://cdn.novelupdates.com/images/2021/12/How-Could-You-Like-Another-Girl-When-You-Already-Have-A-Cute-Fiance-Like-Me.jpg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v1/?",
 "updated":"New",
@@ -948,7 +1023,7 @@ Karen Kohiruimaki is a college student who stands at an imposing six feet. While
 "cover":"https://cdn.novelupdates.com/images/2023/01/Shaberanai-Kurususan-Kokoro-no-Naka-wa-Suki-de-Ippai.jpg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v1/?",
 "updated":"New",
@@ -965,7 +1040,7 @@ Karen Kohiruimaki is a college student who stands at an imposing six feet. While
 "cover":"https://cdn.novelupdates.com/images/2023/02/One-Day-Out-of-The-Blue-I-Got-a-Gals-Forgiving-Wife.jpg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v1/?",
 "updated":"New",
@@ -1018,7 +1093,7 @@ Karen Kohiruimaki is a college student who stands at an imposing six feet. While
 "type":"Light Novel",
 "genre":"Comedy, Romance, School Life, Shounen, Slice of Life",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "status":"Ongoing",
 "author":"Amano Seiju",
 "alternative":"Kurasu no Daikiraina Joshi to Kekkon Suru Koto ni Natta",
@@ -1103,7 +1178,7 @@ Karen Kohiruimaki is a college student who stands at an imposing six feet. While
 "type":"Web Novel",
 "genre":"Action, Adventure, Fantasy, Harem, Shounen, Slice of Life",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "status":"Ongoing",
 "author":"Kogitsune Maru",
 "alternative":"Izure Saikyou no Renkinjutsushi?",
@@ -1442,7 +1517,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://cdn.novelupdates.com/images/2023/01/Shaberanai-Kurususan-Kokoro-no-Naka-wa-Suki-de-Ippai.jpg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v1/?",
 "updated":"No",
@@ -1493,7 +1568,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://cdn.novelupdates.com/images/2021/06/The-Neighboring-Aaryasan-who-Sometimes-Acts-Affectionate-and-Murmuring-in-Russian.jpeg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"Popular",
 "volumes":"v5/?",
 "updated":"No",
@@ -1510,7 +1585,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://cdn.novelupdates.com/images/2021/08/Sekaiichi-Kantan-na-Heroine-no-Kouryaku-Shikata.jpg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v1/?",
 "updated":"No",
@@ -1527,7 +1602,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://cdn.novelupdates.com/images/2023/01/Tonari-no-Seki-no-Moto-Idol-wa-Ore-no-Produce-ga-nai-to-Ikite-Ikenai.jpg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v1/?",
 "updated":"No",
@@ -1544,7 +1619,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://cclawtranslationshome.files.wordpress.com/2021/02/901.jpg?w=768",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v9/9",
 "updated":"No",
@@ -1561,7 +1636,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://cclawtranslationshome.files.wordpress.com/2022/07/701-1.jpg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"No",
 "volumes":"v7/7",
 "updated":"No",
@@ -1578,7 +1653,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://cdn.novelupdates.com/images/2021/01/Gimai-Seikatsu.jpg",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"Popular",
 "volumes":"v7/?",
 "updated":"No",
@@ -1663,7 +1738,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKtdqCMecqGScwH2xuy6EXHrrFgD7rdF9izA&usqp=CAU",
 "type":"Light Novel",
 "fileType":"Pdf",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"Popular",
 "volumes":"v5.5 SS",
 "updated":"No",
@@ -1680,7 +1755,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "cover":"https://royalmtls.files.wordpress.com/2023/02/y2v9-cover-1.webp?w=468&zoom=2",
 "type":"Light Novel",
 "fileType":"Epub",
-"tlType":"Fan Translation",
+"tlType":"FanTL",
 "popular":"Popular",
 "volumes":"v9/?",
 "updated":"No",
@@ -1690,7 +1765,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "synopsis":"Tensions are high as the students of the Advanced Nurturing High School enter the second week of this special exam taking place on an uninhabited island. Students from all grades are getting ready to make their final moves, and so is Acting Principal Tsukishiro. Who will come out on top? And who will be packing their bags to leave the island–and the school?",
 "status":"Ongoing",
 "author":"Kinugasa Shougo",
-"link":"https://denzkie2003.github.io/fnovelsv2/storage/classroom_of_the_elite_year_two_Fan Translation.json"
+"link":"https://denzkie2003.github.io/fnovelsv2/storage/classroom_of_the_elite_year_two_FanTL.json"
 },
 {
 "title":"Classroom of the Elite Year 2",

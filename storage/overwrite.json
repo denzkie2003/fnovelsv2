@@ -1,0 +1,15 @@
+[
+{
+   "volumeNumber":"Volume 1",
+   "volumeCover":"https://cclawtranslationshome.files.wordpress.com/2023/01/101.jpg",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySggRQ_bBmenCI4XQV/root/content"
+},{
+   "volumeNumber":"Volume 2",
+   "volumeCover":"https://cclawtranslationshome.files.wordpress.com/2023/01/201.jpg?w=768",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySggKMn82XMejRJmGv/root/content"
+},{
+   "volumeNumber":"Volume 3",
+   "volumeCover":"https://cclawtranslationshome.files.wordpress.com/2023/01/301-1.jpg",
+   "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySggMjhNdAUkLDchwo/root/content"
+}
+]
