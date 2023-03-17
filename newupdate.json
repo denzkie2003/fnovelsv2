@@ -1,5 +1,31 @@
 [
 {
+    "title":"Konosuba: God's Blessing on This Wonderful World!",
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975343101.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "genre":"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Shounen, Slice of Life",
+
+    "translation":"Yen Press",
+
+    "alternative":"Kono Subarashii Sekai ni Shukufuku o!",
+
+    "synopsis":"Game loving shut-in Kazuma Sato's life as a young schoolboy in Japan abruptly comes to an early end...or at least it was supposed to. When he opens his eyes, though, he sees a beautiful goddess that offers him a once in an after-lifetime chance to be reborn in a parallel world. The catch is that the world is violent and threatened by a growing evil! Fortunately, he can choose any one thing to bring with him. So he chooses the goddess, Aqua! And so his adventure with his gorgeous companion begins--if he could just get enough money and food to survive, keep his goddess out of trouble, and avoid grabbing the attention of the Demon King's army!",
+
+    "status":"Completed",
+
+    "author":"Natsume Akatsuki",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/konosuba.json"
+
+},
+{
     "title":"Too Many Losing Heroines!",
 
     "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdEZqn7sF4kN_LErSO_W_4BmnEKy2AOijEgg&usqp=CAU",
@@ -252,72 +278,6 @@
     "author":"Wataru Watari",
 
     "link":"https://denzkie2003.github.io/fnovelsv2/storage/oregairu.json"
-
-  },
-{
-
-    "title":"Rascal Does Not Dream of Bunny Girl Senpai",
-
-    "cover":"https://yenpress-us.imgix.net/covers/9781975312688.jpg?auto=format&w=300&dpr=2&q=100",
-
-    "type":"Light Novel",
-
-    "fileType":"Epub",
-
-    "tlType":"Official",
-
-    "popular":"Popular",
-
-    "volumes":"v9/?",
-
-    "updated":"New",
-
-    "genre":"Comedy, Drama, Mystery, Psychological, Romance, School Life, Sci-fi, Supernatural",
-
-    "translation":"Yen Press",
-
-    "alternative":"Seishun Buta Yarou Series",
-
-    "synopsis":"Out of sight, out of mind!\n\nBunny girls do not live in libraries. This is simply common sense. And yet, that's exactly where Sakuta finds one in the wild. More bewildering is who the bunny girl is: Mai Sakurajima, a girl one year older than Sakuta, famous at their school for her acting career even though she's currently on break. To top it all off, it seems like no one else in the library can see Mai at all, no matter what she does or...wears. Wanting to find out more about this mystery and maybe get a little closer to this beautiful upperclassman in the process, Sakuta launches an investigation to discover why an unforgettable bunny girl keeps becoming totally invisible.",
-
-    "status":"Ongoing",
-
-    "author":"Hajime Kamoshida",
-
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/rascal_does_not_dream.json"
-
-  },
-{
-
-    "title":"Magical★Explorer",
-
-    "cover":"https://yenpress-us.imgix.net/covers/9781975325657.jpg?auto=format&w=300&dpr=2&q=100",
-
-    "type":"Light Novel",
-
-    "fileType":"Epub",
-
-    "tlType":"Official",
-
-    "popular":"No",
-
-    "volumes":"v3/?",
-
-    "updated":"New",
-
-    "genre":"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Martial Arts, Romance, School Life, Shounen",
-
-    "translation":"Yen Press",
-
-    "alternative":"Magical Explorer Reborn as a Side Character in a Fantasy Dating Sim",
-
-    "synopsis":"OUT OF THE FRIEND ZONE AND INTO THE FIRE!\n\nFew titles are more revered among horndogs—(ahem) connoisseurs of Japanese erotic video games—than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!",
-
-    "status":"Ongoing",
-
-    "author":"Iris",
-
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/magical_explorer.json"
 
   }
 ]
