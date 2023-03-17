@@ -1,0 +1,35 @@
+[
+{
+      "volumeNumber":"Volume 1",
+      "volumeCover":"https://yenpress-us.imgix.net/covers/9780316259361.JPG?auto=format&w=300&dpr=2&q=100",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgisv78FZv9JNun4s/root/content"
+   },{
+      "volumeNumber":"Volume 2",
+      "volumeCover":"https://yenpress-us.imgix.net/covers/9780316342179.JPG?auto=format&w=300&dpr=2&q=100",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgiwXs31w0vy9Zezw/root/content"
+   },{
+      "volumeNumber":"Volume 3",
+      "volumeCover":"https://yenpress-us.imgix.net/covers/9780316348836.JPG?auto=format&w=300&dpr=2&q=100",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgi3GakjTkhK_8bVj/root/content"
+   },{
+      "volumeNumber":"Volume 4",
+      "volumeCover":"https://yenpress-us.imgix.net/covers/9780316545426.JPG?auto=format&w=300&dpr=2&q=100",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgi4i1uu0_nBUK-az/root/content"
+   },{
+      "volumeNumber":"Volume 5",
+      "volumeCover":"https://yenpress-us.imgix.net/covers/9781975328146.jpg?auto=format&w=300&dpr=2&q=100",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgi-afEHp2168_Bfv/root/content"
+   },{
+      "volumeNumber":"Volume 6",
+      "volumeCover":"https://yenpress-us.imgix.net/covers/9781975383336.JPG?auto=format&w=300&dpr=2&q=100",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgjD0sYVtejK2PP5t/root/content"
+   },{
+      "volumeNumber":"Volume 7",
+      "volumeCover":"https://yenpress-us.imgix.net/covers/9781975339913.jpg?auto=format&w=300&dpr=2&q=100",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgjEOJCOoF9Fjn1j4/root/content"
+   },{
+      "volumeNumber":"Volume 8",
+      "volumeCover":"https://yenpress-us.imgix.net/covers/9781975343385.jpg?auto=format&w=300&dpr=2&q=100",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgjLhG8TLtKqFqb8V/root/content"
+   }
+]

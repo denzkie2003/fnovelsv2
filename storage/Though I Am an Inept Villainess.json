@@ -1,0 +1,15 @@
+[
+{
+      "volumeNumber":"Volume 1",
+      "volumeCover":"https://cdn.novelupdates.com/images/2021/11/Futsutsuka-na-Akujo-de-wa-Gozaimasu-ga-Suuguu-Chouso-Torikae-Den.jpg",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgkSJH56R22FZFAGW/root/content"
+   },{
+      "volumeNumber":"Volume 2",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGNqiuQ7y0dac0tu14hU8m7r_TouOSkUx3g&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgkWJteME1m1hqhyP/root/content"
+   },{
+      "volumeNumber":"Volume 3",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKVX2wSEggUeBDbmvtfqAKhmmwxhUOzVT-cA&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgkZT5CsP14XvkK5h/root/content"
+   }
+]
