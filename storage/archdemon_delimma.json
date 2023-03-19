@@ -1,0 +1,39 @@
+[
+{
+      "volumeNumber":"Volume 1",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwzPqzl4xY9bY1MzK7Qc-wyrspMN3m33XrQ&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgiNXl9ZCzEYcOd1i/root/content"
+   },{
+      "volumeNumber":"Volume 2",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ07cCHGhwtSd4t8KmOaUN1viN-_0SB78lmhQ&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgiJLSVZbmw2RS5tI/root/content"
+   },{
+      "volumeNumber":"Volume 3",
+      "volumeCover":"https://static.wikia.nocookie.net/an-archdemons-dilemma/images/e/e8/Volume-3-Cover.png/revision/latest/scale-to-width-down/1200?cb=20191212190025",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySghvafv3TTc9Ysw_l/root/content"
+   },{
+      "volumeNumber":"Volume 4",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_PjdxYq1LaaJeGp0oXyMJ4cBwbP4etsnqOg&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgh93fJXipQFOSyw7/root/content"
+   },{
+      "volumeNumber":"Volume 5",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUcYc4HD1t6LKE2p1DwZ0B8xyhdh5SSIz5g&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgiTufdjAfUYo6j2l/root/content"
+   },{
+      "volumeNumber":"Volume 6",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNQG784AFkio-HFcc7KSM5UIzW_7iiT1z2EA&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgh4xtkk7A75FLSRt/root/content"
+   },{
+      "volumeNumber":"Volume 7",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRezd0bZm4MP4lPUwuXeHUMyUmSm1fa8zREtQ&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgiE_5A0fMJOCkRby/root/content"
+   },{
+      "volumeNumber":"Volume 8",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEjnyOLYZImM2APopFr4KzgBXpRGAyE4fcQ&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgh2VmMLWpplfFMM_/root/content"
+   },{
+      "volumeNumber":"Volume 9",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-tP2xZKfyHWvprHOc3Fwtp68KFkCTyFHxw&usqp=CAU",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgiBYhc5NhxW6pNEa/root/content"
+   }
+]
