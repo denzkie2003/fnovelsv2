@@ -18,5 +18,9 @@
 "volumeNumber":"Volume 4",
 "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9LsSboCGZaj-g15tpVZVgNxpZjb2U2nIrw&usqp=CAU",
 "volumeLink":"https://drive.google.com/uc?export=download&id=1U8XyfteYZhRAt0W4kDlE2Rr8XwQIMe69"
-}
+},{
+      "volumeNumber":"Volume 5 (FanTL)",
+      "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZUNenzHPFt7ApFY02cnfMLMA2S-ZCdYgXw",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgwbTwwr-aBvEisnC/root/content"
+   }
 ]

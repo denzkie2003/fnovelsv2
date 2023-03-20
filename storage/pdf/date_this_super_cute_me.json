@@ -1,0 +1,21 @@
+[
+[
+{
+      "volumeNumber":"Volume 1",
+      "volumeCover":"https://i.imgur.com/j2EE1qr.png",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgwldHu2hb0X4omO0/root/content"
+   },{
+      "volumeNumber":"Side Story",
+      "volumeCover":"https://i.imgur.com/j2EE1qr.png",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgw--6ora1DF4byWu/root/content"
+   },{
+      "volumeNumber":"Volume 2",
+      "volumeCover":"https://i.imgur.com/amq86jo.png",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgwubuSIQE6DAFGR4/root/content"
+   },{
+      "volumeNumber":"Volume 3",
+      "volumeCover":"https://i.imgur.com/is4a3m6.png",
+      "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgw1ePu8TAypiLuz3/root/content"
+   }
+]
+]
