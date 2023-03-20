@@ -1,5 +1,57 @@
 [
 {
+    "title":"May These Leaden Battlegrounds Leave No Trace",
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975320188.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "genre":"Fantasy, Sci-Fi, Action",
+
+    "translation":"Yen Press",
+
+    "alternative":"May These Leaden Battlegrounds Leave No Trace",
+
+    "synopsis":"The power to rewrite history...and all it costs is a deal with the devil\n\nFor a hundred years, the East and West have waged a ferocious war using everything from tanks to witchcraft, but the technological advancements of the West have begun to shift the balance. That all changes one day when Rain Lantz, a young soldier from the East, finds a few mysterious silver bullets--and discovers that anyone shot with them is erased not only from the battlefield, but from history itself. Soon after, he meets the bullets' creator, a Ghost who calls herself Air, and learns that if he wishes to continue using this power to end the war for good, he will have to give her his freedom...",
+
+    "status":"Ongoing",
+
+    "author":"Kei Uekawa",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/may_these_leaden_battle_ground.json"
+
+},
+{
+    "title":"So I'm a Spider, So What?",
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975352165.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "genre":"Action, Adventure, Comedy, Drama, Fantasy, Mystery, Seinen, Tragedy",
+
+    "translation":"Yen Press",
+
+    "alternative":"Kumo Desu ga, Nani ka?",
+
+    "synopsis":"I used to be a normal high school girl but in the blink of an eye, I woke up in a place I've never seen before and-and I was reborn as a spider?! How could something that's nothing more than a tiny spider (that's me) possibly survive in literally the worst dungeon ever? Are there no rules? There should be some rules! Who the hell is responsible for this? SHOW YOUR FACE!",
+
+    "status":"Ongoing",
+
+    "author":"Okina Baba",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/so_im_a_spider.json"
+
+},
+{
     "title":"Chronicles of an Aristocrat Reborn in Another World – the Apostle of the Gods Who Know No Self-Restraint",
 
     "cover":"https://i.ibb.co/9c8N0Mp/13176.jpg",
@@ -205,32 +257,6 @@
     "author":"FUNA",
 
     "link":"https://denzkie2003.github.io/fnovelsv2/storage/make_my_abilities_average.json"
-
-},
-{
-    "title":"Sword Art Online Progressive",
-
-    "cover":"https://yenpress-us.imgix.net/covers/9781975343385.jpg?auto=format&w=300&dpr=2&q=100",
-
-    "type":"Light Novel",
-
-    "fileType":"Epub",
-
-    "tlType":"Official",
-
-    "genre":"Action, Adventure, Drama, Fantasy, Mystery, Romance, Sci-fi, Shounen",
-
-    "translation":"Yen Press",
-
-    "alternative":"ソードアート・オンライン プログレッシブ",
-
-    "synopsis":"“There’s no way to beat this game. The only difference is when and where you die...”\n\nOne month has passed since Akihiko Kayaba’s deadly game began, and the body count continues to rise. Two thousand players are already dead.\n\nKirito and Asuna are two very different people, but they both desire to fight alone. Nonetheless, they find themselves drawn together to face challenges from both within and without. Given that the entire virtual world they now live in has been created as a deathtrap, the surviving players of Sword Art Online are starting to get desperate, and desperation makes them dangerous to loners like Kirito and Asuna. As it becomes clear that solitude equals suicide, will the two be able to overcome their differences to find the strength to believe in each other, and in so doing survive?\n\nSword Art Online: Progressive is a new version of the Sword Art Online tale that starts at the beginning of Kirito and Asuna’s epic adventure--on the very first level of the deadly world of Aincrad!",
-
-    "status":"Ongoing",
-
-    "author":"Reki Kawahara",
-
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/sao_progressive.json"
 
 }
 ]
