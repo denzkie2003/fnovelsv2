@@ -31,9 +31,15 @@
    "volumeNumber":"Volume 8",
    "volumeCover":"https://yenpress-us.imgix.net/covers/9781975312664.jpg?auto=format&w=300&dpr=2&q=100",
    "volumeLink":"https://docs.google.com/uc?export=download&id=1IlA0O3xkUKxCB9Y3Kr8XSOyLCC7xznKX"
-},{
+},
+{
    "volumeNumber":"Volume 9",
    "volumeCover":"https://yenpress-us.imgix.net/covers/9781975312688.jpg?auto=format&w=300&dpr=2&q=100",
    "volumeLink":"https://docs.google.com/uc?export=download&id=1scxkWgJmx6X-2b4eNDjPDEq_b3Q_LSz1"
+},
+{
+   "volumeNumber":"Volume 10",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975318512.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://docs.google.com/uc?export=download&id=1QRbj1q1HGXWceeiJVu56TEjIu1Xkc63l"
 }
 ]

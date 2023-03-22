@@ -1,5 +1,74 @@
 [
 {
+
+    "title":"Rascal Does Not Dream of Bunny Girl Senpai",
+
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975318512.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "genre":"Comedy, Drama, Mystery, Psychological, Romance, School Life, Sci-fi, Supernatural",
+
+    "translation":"Yen Press",
+
+    "alternative":"Seishun Buta Yarou Series",
+
+    "synopsis":"Out of sight, out of mind!\n\nBunny girls do not live in libraries. This is simply common sense. And yet, that's exactly where Sakuta finds one in the wild. More bewildering is who the bunny girl is: Mai Sakurajima, a girl one year older than Sakuta, famous at their school for her acting career even though she's currently on break. To top it all off, it seems like no one else in the library can see Mai at all, no matter what she does or...wears. Wanting to find out more about this mystery and maybe get a little closer to this beautiful upperclassman in the process, Sakuta launches an investigation to discover why an unforgettable bunny girl keeps becoming totally invisible.",
+
+    "status":"Ongoing",
+
+    "author":"Hajime Kamoshida",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/rascal_does_not_dream.json"
+
+  },
+{
+"title":"Majo no Tabitabi",
+"cover":"https://yenpress-us.imgix.net/covers/9781975334635.jpg?auto=format&w=300&dpr=2&q=100",
+"type":"Light Novel",
+"genre":"Adventure, Comedy, Fantasy, Slice of Life, Tragedy",
+"fileType":"Epub",
+"tlType":"Official",
+"status":"Ongoing",
+"author":"Shiraishi Jougi",
+"alternative":"Wandering Witch: The Journey of Elaina",
+"translation":"Yen Press",
+"synopsis":"It's not about the destination...\n\nWhat\'s your favorite story? Does it have a hero who slays a dragon and saves a princess? Or a child of prophecy destined for greatness? Well, my favorite story is a little different. It's the tale of a witch who travels the world, seeking nothing in particular. With no quest of her own, she\'s free to wander wherever the wind takes her, adding a few pages to the story of whomever she meets before setting off on her next adventure. At the end of her travels, the witch takes on an apprentice who will one day begin her own journey. And so the cycle continues, or so the story goes. Now, the witch who starts the story anew...who could she be?",
+"link":"https://denzkie2003.github.io/fnovelsv2/storage/majo_no_tabitabi.json"
+},
+{
+
+    "title":"Overlord",
+
+    "cover":"https://yenpress-us.imgix.net/covers/9781975360566.jpg?auto=format&w=300&dpr=2&q=100",
+
+    "type":"Light Novel",
+
+    "fileType":"Epub",
+
+    "tlType":"Official",
+
+    "genre":"Action, Adventure, Drama, Fantasy, Harem, Mature, Psychological, Sci-fi, Seinen",
+
+    "translation":"Yen Press",
+
+    "alternative":"オーバーロード",
+
+    "synopsis":"In 21st century, world entered a new stage of VR games…and “YGGDRASIL” is considered top of all MMORPG…but, After announcing that all its servers will be off, the internet game ‘Yggdrasil’ shut down…or so was supposed to happen, but for some reason, the player character did not log out some time after the server was closed. NPCs start to become sentient. A normal youth who loves gaming in the real world seemed to have been transported into an alternate world along with his guild, becoming the strongest mage with the appearance of a skeleton, Momonga. He leads his guild “Ainz Ooal Gown” towards an unprecedented legendary fantasy adventure!",
+
+    "status":"Ongoing",
+
+    "author":"Maruyama Kugane",
+
+    "link":"https://denzkie2003.github.io/fnovelsv2/storage/overlord.json"
+
+  },
+{
     "title":"The Asterisk War",
 
     "cover":"https://yenpress-us.imgix.net/covers/9781975348601.jpg?auto=format&w=300&dpr=2&q=100",
@@ -167,84 +236,6 @@
     "author":"Yashu",
 
     "link":"https://denzkie2003.github.io/fnovelsv2/storage/Tensei Kizoku no Isekai Boukenroku.json"
-
-},
-{
-    "title":"Isekai Nonbiri Nouka",
-
-    "cover":"https://denzkie2003.github.io/fnovelsv2/cover/isekai_nonbiri_8.jpeg",
-
-    "type":"Web Novel",
-
-    "fileType":"Epub",
-
-    "tlType":"FanTL",
-
-    "genre":"Adventure, Comedy, Fantasy, Harem, Romance, Seinen, Slice of Life",
-
-    "translation":"SHMTrans",
-
-    "alternative":"Farming Life in Another World",
-
-    "synopsis":"After his struggle against disease for a decade, the main character dies. However, he revives and became younger in a different world.\n\nThe main support of the main character’s heart during his battle against the disease is a TV program about leisure farming.\n\nIn his second life in a different world, he’s going to try farming.\n\nCommon things like different world transition and domestic affairs?\n\nThis will have no big climax.\n\nThis is going to be frantic.",
-
-    "status":"Ongoing",
-
-    "author":"Kinosuke Naito",
-
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/isekai_nonbiri_nouka.json"
-
-},
-{
-    "title":"An Archdemon's Dilemma: How to Love Your Elf Bride",
-
-    "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-tP2xZKfyHWvprHOc3Fwtp68KFkCTyFHxw&usqp=CAU",
-
-    "type":"Light Novel",
-
-    "fileType":"Epub",
-
-    "tlType":"Official",
-
-    "genre":"Action, Comedy, Drama, Fantasy, Romance, Shounen, Slice of Life, Supernatural",
-
-    "translation":"J-Novel Club",
-
-    "alternative":"Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
-
-    "synopsis":"Zagan is feared as an evil mage, he is awkward and has a sharp tongue, and once again had to put down thieves that encroached on his territory when he was researching that morning. In a dark auction, he finds a white s*ave elf, Nephie, who holds a peerless beauty. Falling in love with her at first sight, he uses his fortune to buy her, but as poor as he is socially, he doesn’t understand how to connect with her. Thus, the clumsy cohabitation of the mage that can’t convey his love, and the s*ave that pines for her master but doesn’t understand how to bring it up, begins.",
-
-    "status":"Ongoing",
-
-    "author":"Teshima Fuminori",
-
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/archdemon_delimma.json"
-
-},
-{
-    "title":"Tate no Yuusha no Nariagari",
-
-    "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROezemYHR3bGVyeHyAKDSfHnOQrSPgtvdeZQ&usqp=CAU",
-
-    "type":"Light Novel",
-
-    "fileType":"Epub",
-
-    "tlType":"Official",
-
-    "genre":"Action, Adventure, Comedy, Drama, Fantasy, Harem, Romance, Seinen",
-
-    "translation":"One Piece Books",
-
-    "alternative":"The Rising of the Shield Hero",
-
-    "synopsis":"Naofumi Iwatani, an uncharismatic Otaku who spends his days on games and manga, suddenly finds himself summoned to a parallel universe! He discovers he is one of four heroes equipped with legendary weapons and tasked with saving the world from its prophesied destruction.\n\nAs the Shield Hero, the weakest of the heroes, all is not as it seems. Naofumi is soon alone, penniless, and betrayed. With no one to turn to, and nowhere to run, he is left with only his shield. Now, Naofumi must rise to become the legendary Shield Hero and save the world!",
-
-    "status":"Ongoing",
-
-    "author":"ANEKO Yusagi",
-
-    "link":"https://denzkie2003.github.io/fnovelsv2/storage/tate_no_yusha.json"
 
 }
 ]

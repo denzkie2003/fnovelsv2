@@ -440,22 +440,15 @@
 
   },
 {
-
     "title":"Rascal Does Not Dream of Bunny Girl Senpai",
 
-    "cover":"https://yenpress-us.imgix.net/covers/9781975312688.jpg?auto=format&w=300&dpr=2&q=100",
+    "cover":"https://yenpress-us.imgix.net/covers/9781975318512.jpg?auto=format&w=300&dpr=2&q=100",
 
     "type":"Light Novel",
 
     "fileType":"Epub",
 
     "tlType":"Official",
-
-    "popular":"Popular",
-
-    "volumes":"v9/?",
-
-    "updated":"New",
 
     "genre":"Comedy, Drama, Mystery, Psychological, Romance, School Life, Sci-fi, Supernatural",
 
@@ -708,19 +701,13 @@ Karen Kohiruimaki is a college student who stands at an imposing six feet. While
 
     "title":"Overlord",
 
-    "cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnh-jpUTd3Xl_s9-K79vEA0VBMJmeqpcNLMw&usqp=CAU",
+    "cover":"https://yenpress-us.imgix.net/covers/9781975360566.jpg?auto=format&w=300&dpr=2&q=100",
 
     "type":"Light Novel",
 
     "fileType":"Epub",
 
     "tlType":"Official",
-
-    "popular":"Popular",
-
-    "volumes":"v14/?",
-
-    "updated":"New",
 
     "genre":"Action, Adventure, Drama, Fantasy, Harem, Mature, Psychological, Sci-fi, Seinen",
 
@@ -960,8 +947,7 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 },
 {
 "title":"Majo no Tabitabi",
-"cover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbJ4A916pY46x9KSgi-Ugz5stok61SET8rA&usqp=CAU",
-"volumes":"v9/?",
+"cover":"https://yenpress-us.imgix.net/covers/9781975334635.jpg?auto=format&w=300&dpr=2&q=100",
 "type":"Light Novel",
 "genre":"Adventure, Comedy, Fantasy, Slice of Life, Tragedy",
 "fileType":"Epub",
@@ -969,8 +955,6 @@ Lloyd dreams of becoming a burly solider in the royal capital. But everyone in h
 "status":"Ongoing",
 "author":"Shiraishi Jougi",
 "alternative":"Wandering Witch: The Journey of Elaina",
-"updated":"No",
-"popular":"No",
 "translation":"Yen Press",
 "synopsis":"It's not about the destination...\n\nWhat\'s your favorite story? Does it have a hero who slays a dragon and saves a princess? Or a child of prophecy destined for greatness? Well, my favorite story is a little different. It's the tale of a witch who travels the world, seeking nothing in particular. With no quest of her own, she\'s free to wander wherever the wind takes her, adding a few pages to the story of whomever she meets before setting off on her next adventure. At the end of her travels, the witch takes on an apprentice who will one day begin her own journey. And so the cycle continues, or so the story goes. Now, the witch who starts the story anew...who could she be?",
 "link":"https://denzkie2003.github.io/fnovelsv2/storage/majo_no_tabitabi.json"

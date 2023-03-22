@@ -31,9 +31,15 @@
    "volumeNumber":"Volume 8",
    "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSBLCyWYmLAiTr9_kIk7El0z45nfWLWi2jg&usqp=CAU",
    "volumeLink":"https://drive.google.com/uc?export=download&id=1NXAyRjhhe6sg1HtvwKXhz_yp-MKTAatj"
-},{
+},
+{
    "volumeNumber":"Volume 9",
    "volumeCover":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbJ4A916pY46x9KSgi-Ugz5stok61SET8rA&usqp=CAU",
    "volumeLink":"https://drive.google.com/uc?export=download&id=1MP5m4Z5hNokpvsV3Gt2NO-iptXihyG2F"
+},
+{
+   "volumeNumber":"Volume 10",
+   "volumeCover":"https://yenpress-us.imgix.net/covers/9781975334635.jpg?auto=format&w=300&dpr=2&q=100",
+   "volumeLink":"https://docs.google.com/uc?export=download&id=1MBMUE0dT4MvcMauuMzT5PxY383LAmelR"
 }
 ]

@@ -1,4 +1,4 @@
-[
+
 [
 {
       "volumeNumber":"Volume 1",
@@ -17,5 +17,4 @@
       "volumeCover":"https://i.imgur.com/is4a3m6.png",
       "volumeLink":"https://api.onedrive.com/v1.0/shares/s!AkjPmcJb0KySgw1ePu8TAypiLuz3/root/content"
    }
-]
 ]
